@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0735-asteroid-collision](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -95,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
