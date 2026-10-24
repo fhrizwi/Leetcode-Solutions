@@ -26,13 +26,27 @@
 // }
 
 
-// Optimal Solution
+// // Optimal Solution
+// class Solution {
+//     public int missingNumber(int[] nums) {
+//         //finding the length of the arrray
+//       int n=nums.length;
+//       int sumN=(n*(n+1))/2,sum=0;
+//       for (int i:nums) sum+=i;
+//       return sumN-sum;
+//     }
+// }
+
+
+
+// By using colection framework
 class Solution {
     public int missingNumber(int[] nums) {
-        //finding the length of the arrray
-      int n=nums.length;
-      int sumN=(n*(n+1))/2,sum=0;
-      for (int i:nums) sum+=i;
-      return sumN-sum;
+        Set<Integer> set=new HashSet();
+        for (int i:nums)set.add(i);
+        for (int i=0; i<=nums.length;i++){
+            if (!set.contains(i)) return i;
+        }
+        return 0;
     }
 }
