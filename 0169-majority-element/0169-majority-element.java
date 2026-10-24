@@ -1,3 +1,5 @@
+//for frrequency count always use hashmap
+
 class Solution {
     public int majorityElement(int[] nums) {
         Map<Integer,Integer> map=new HashMap<>();
