@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0735-asteroid-collision](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
@@ -86,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
