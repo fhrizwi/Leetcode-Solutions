@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
