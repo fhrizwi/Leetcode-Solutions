@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
