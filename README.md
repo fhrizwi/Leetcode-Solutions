@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
