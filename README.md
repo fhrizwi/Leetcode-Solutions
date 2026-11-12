@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/fhrizwi/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
